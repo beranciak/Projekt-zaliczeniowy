@@ -1,0 +1,2 @@
+# Projekt-zaliczeniowy
+ZGANIJ LICZBE 
