@@ -1,9 +1,0 @@
-#include <iostream>
-#include <cstdlib>  
-#include <conio.h>
-#include <ctime>
-#include <algorithm>
-#include <string>
-#include <windows.h>
-#include <vector>
-#include <sstream>
